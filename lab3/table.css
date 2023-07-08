@@ -1,0 +1,23 @@
+table{
+    width: 50%;
+    height: 500px;
+    border: solid 1px black;
+    margin: auto;
+    font-weight: bold;
+    text-align: center;
+    border-collapse: collapse;
+
+}
+td,tr{
+    border: solid 1px black;
+}
+.class1{
+    height: 50px;
+    background-color: aqua;
+}
+.class2{
+    background-color: aquamarine;
+}
+.class3{
+    background-color: cadetblue;
+}
